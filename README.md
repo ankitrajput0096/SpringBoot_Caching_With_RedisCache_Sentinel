@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the project to your local environment:
     ```
-    git clone https://github.com/ankitrajput0096/SpringBoot_With_RedisCache_Sentinel
+    git clone https://github.com/ankitrajput0096/SpringBoot_Caching_With_RedisCache_Sentinel
     ```
 
 2. You need Docker to be installed:
