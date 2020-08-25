@@ -6,12 +6,14 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping(value="/simpleController")
+@RequestMapping(value = "/simpleController")
 public class SimpleController {
 
-	@RequestMapping(value="/helloFriends",method= RequestMethod.GET, produces = "text/plain")
-	public ResponseEntity<String> helloFriendsMethod()
-	{
-		return ResponseEntity.ok().body("hello friends");
-	}
+    @RequestMapping(
+            value = "/helloFriends",
+            method = RequestMethod.GET,
+            produces = "text/plain")
+    public ResponseEntity<String> helloFriendsMethod() {
+        return ResponseEntity.ok().body("hello friends");
+    }
 }

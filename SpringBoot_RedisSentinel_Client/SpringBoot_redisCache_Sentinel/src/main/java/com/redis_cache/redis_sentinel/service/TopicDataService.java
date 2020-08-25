@@ -6,10 +6,16 @@ import java.util.List;
 
 public interface TopicDataService {
     List<Topic> getAllTopics();
+
     Topic getTopic(String id);
+
     Topic addTopic(Topic topic);
+
     Topic updateTopic(Topic topic, String id);
+
     void deleteTopic(String id);
+
     Topic getById(String id);
-    Topic getByIdAndName(String id,String name);
+
+    Topic getByIdAndName(String id, String name);
 }

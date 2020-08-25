@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ef29150-cf36-4a20-9f62-58b012cd2779" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/RedisSentinelApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/RedisSentinelApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/configuration/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/configuration/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/controller/SimpleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/controller/SimpleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/controller/SpringController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/controller/SpringController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/model/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/model/Topic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/repository/TopicRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/repository/TopicRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/service/TopicDataManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/service/TopicDataManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/service/TopicDataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/service/TopicDataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/serviceImpl/PersistentTopicDataManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/serviceImpl/PersistentTopicDataManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/serviceImpl/TopicDataServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/java/com/redis_cache/redis_sentinel/serviceImpl/TopicDataServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_RedisSentinel_Client/SpringBoot_redisCache_Sentinel/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis_sentinel/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/redis_sentinel/Dockerfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gaHMLG74WaROJiaENKjeXH9hKu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ef29150-cf36-4a20-9f62-58b012cd2779" name="Default Changelist" comment="" />
+      <created>1598345734793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598345734793</updated>
+    </task>
+    <servers />
+  </component>
+</project>

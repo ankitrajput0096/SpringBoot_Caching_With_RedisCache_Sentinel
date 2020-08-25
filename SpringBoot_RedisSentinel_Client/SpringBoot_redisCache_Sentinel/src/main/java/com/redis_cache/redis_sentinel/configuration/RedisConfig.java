@@ -43,7 +43,8 @@ public class RedisConfig {
 
     @Bean(name="jedisConnectionFactory")
     public JedisConnectionFactory jedisConnectionFactory() {
-        JedisConnectionFactory jedisConnectionFactory = new JedisConnectionFactory(
+        JedisConnectionFactory jedisConnectionFactory =
+                new JedisConnectionFactory(
                 redisSentinelConfiguration(),
                 poolConfig());
         return jedisConnectionFactory;
@@ -64,7 +65,8 @@ public class RedisConfig {
 
     @Bean
     public RedisSentinelConfiguration redisSentinelConfiguration() {
-        return new RedisSentinelConfiguration(sentinelMasterName,new HashSet<String>(sentinelNodes));
+        return new RedisSentinelConfiguration(sentinelMasterName,
+                new HashSet<String>(sentinelNodes));
     }
 
     @Bean
@@ -92,7 +94,8 @@ public class RedisConfig {
 
     @Bean
     public RedisCacheManager cacheManager() {
-        RedisCacheConfiguration redisCacheConfig = RedisCacheConfiguration.defaultCacheConfig()
+        RedisCacheConfiguration redisCacheConfig = RedisCacheConfiguration
+                .defaultCacheConfig()
                 .serializeKeysWith(RedisSerializationContext
                         .SerializationPair
                         .fromSerializer(new StringRedisSerializer()))
