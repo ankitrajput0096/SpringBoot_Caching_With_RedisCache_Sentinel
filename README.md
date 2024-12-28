@@ -1,6 +1,6 @@
 # SpringBoot With Redis Cache Sentinel Cluster
 
-Dockerized Spring Boot application with Redis cache sentinel cluster configuration and PostgreSQL.
+This project features a Dockerized Spring Boot application with a Redis sentinel cluster (1 master, 4 slaves, 3 sentinels) and a PostgreSQL database server. It provides a scalable, fault-tolerant architecture for caching and persistent data storage, ideal for modern application needs.
 
 ## Getting Started
 
